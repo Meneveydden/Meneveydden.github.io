@@ -1,2 +1,2 @@
 
-alert("Hello\nHow are you?");
+alert(1);
